@@ -17,7 +17,7 @@ http://www.mulesoft.org/schema/mule/ee/core http://www.mulesoft.org/schema/mule/
 output application/json
 ---
 {
-	"Message" : "This application is testing purpose developed by Gowtham Reddy"
+	"Message" : "This application is testing purpose developed by Gowtham Reddy Karri"
 }]]></ee:set-payload>
 			</ee:message>
 		</ee:transform>
